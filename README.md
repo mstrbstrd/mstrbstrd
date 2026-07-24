@@ -2,7 +2,7 @@
 
 **Engineering Lead | Full Stack Software Engineer | AI & Commerce Systems**
 
-Kelowna, BC, Canada · [Selected engineering work](https://popcon.dev/work) · [Popular Consulting](https://popcon.dev) · [Email](mailto:shaw@popcon.dev)
+Kelowna, BC, Canada · [Engineering profile](https://popcon.dev/engineering) · [Selected engineering work](https://popcon.dev/work) · [Popular Consulting](https://popcon.dev) · [Email](mailto:shaw@popcon.dev)
 
 I design and ship production software across AI operations, commerce, payments, enterprise integrations, accessible interfaces, and delivery systems. My work spans product architecture, hands-on implementation, security boundaries, testing, CI/CD, deployment, observability, and production support.
 
@@ -33,7 +33,7 @@ Public, rights-cleared music streaming product with account workflows, profiles,
 Interactive React business and portfolio platform using custom WebGL and GLSL effects, responsive full-screen transitions, hardware capability detection, CSS fallbacks, accessibility regression coverage, and performance telemetry.
 
 **Stack:** React, WebGL, GLSL, Material UI, Framer Motion, Jest, jest-axe, Web Vitals, Vercel  
-[View the public source](https://github.com/mstrbstrd/popular-consulting) · [Enter the site](https://popcon.dev)
+[Enter the engineering profile](https://popcon.dev/engineering) · [Review selected work](https://popcon.dev/work) · [Open the original immersive site](https://popcon.dev) · [View the public source](https://github.com/mstrbstrd/popular-consulting)
 
 ### Popular Consensus
 
