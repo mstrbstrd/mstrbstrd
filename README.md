@@ -2,7 +2,7 @@
 
 **Engineering Lead | Full Stack Software Engineer | AI & Commerce Systems**
 
-Kelowna, BC, Canada · [Engineering profile](https://popcon.dev/engineering) · [Selected engineering work](https://popcon.dev/work) · [Popular Consulting](https://popcon.dev) · [Email](mailto:shaw@popcon.dev)
+Kelowna, BC, Canada · [Engineering profile](https://popcon.dev/engineering) · [Selected engineering work](https://popcon.dev/work) · [Popular Consulting](https://popcon.dev) · [Email](mailto:shae@popcon.dev)
 
 I design and ship production software across AI operations, commerce, payments, enterprise integrations, accessible interfaces, and delivery systems. My work spans product architecture, hands-on implementation, security boundaries, testing, CI/CD, deployment, observability, and production support.
 
@@ -60,4 +60,4 @@ Civic protocol MVP exploring community-scoped proposals, challenge and amendment
 
 For engineering leadership, full-stack product work, AI systems, commerce platforms, or consulting engagements:
 
-**[shaw@popcon.dev](mailto:shaw@popcon.dev)**
+**[shae@popcon.dev](mailto:shae@popcon.dev)**
